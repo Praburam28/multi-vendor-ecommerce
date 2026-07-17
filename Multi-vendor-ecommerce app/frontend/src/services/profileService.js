@@ -1,0 +1,5 @@
+getProfile()
+
+updateProfile()
+
+changePassword()
